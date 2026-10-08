@@ -1,0 +1,360 @@
+pre/post;project_wocid;commit_sha1;author;time;commit message
+pre;angel-ml_angel;3fc0c9c72426a772d9d63466c54f5e1f5fa5b815;Ouyang Wen <ouyangwen21@163.com>;1669277187;"Merge pull request #1256 from jyswpp/lcc_dev_part1
+
+lcc algo development part1"
+pre;angel-ml_angel;e53cd11be56e2aeff89ef443ae61248fa8c4a724;Ouyang Wen <ouyangwen21@163.com>;1669277274;"Merge pull request #1255 from jyswpp/lcc_cluster_example2
+
+add lcc cluster example"
+pre;angel-ml_angel;7dbccf90a34e44bc0df305de3f9ba240fc4be5e8;YinHan-Zhang <89371343+YinHan-Zhang@users.noreply.github.com>;1669951370;"Merge a78cae13a19a440033326145837d9c65f86117c3 into e53cd11be56e2aeff89ef443ae61248fa8c4a724
+"
+pre;angel-ml_angel;3fd820272a3bf23b8b3ff24186d35d192987122f;Yihan Lin <62642577+lllllyh01@users.noreply.github.com>;1669951379;"Merge 4cfe0d0d272f21b40a1e60e9bb216b98d42e951b into e53cd11be56e2aeff89ef443ae61248fa8c4a724
+"
+pre;angel-ml_angel;6c47a418ad85a502f1b30af27ae975f5bae8a5f8;YinHan-Zhang <89371343+YinHan-Zhang@users.noreply.github.com>;1669951389;"Merge c680e55319eed38857e68c264324b3e4a078e831 into e53cd11be56e2aeff89ef443ae61248fa8c4a724
+"
+pre;angel-ml_angel;74b67d9290966170214346fb80a8823653df0d9a;1123469 <90893013+1123469@users.noreply.github.com>;1669951406;"Merge dc21377e249582c87a3a93d3e5d4e4400c98d029 into e53cd11be56e2aeff89ef443ae61248fa8c4a724
+"
+pre;angel-ml_angel;2408c0ab987b06d7dcb344426220d25cf72909f0;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1670399472;"Merge a337f8f76bb528fdee2cb4d996d2c934caaa6d3f into e53cd11be56e2aeff89ef443ae61248fa8c4a724
+"
+pre;angel-ml_angel;24713e6aba41402cecf6628ebde3767665ca5c96;Jingcheng Wu（吴 璟承） <42027179+Wu-Jingcheng@users.noreply.github.com>;1670399474;"Merge c455caec07a0e700c39d0abcc21f5406c3747899 into e53cd11be56e2aeff89ef443ae61248fa8c4a724
+"
+pre;angel-ml_angel;d184e888b615470f9acc9edd268ac16554e42140;jyswpp <isakjiang@tencent.com>;1705389423;"fix some bug for deepwalk
+"
+pre;angel-ml_angel;616272350862acd7156949a9a6d1eba3235eacd7;jyswpp <jys610@126.com>;1705392401;"Merge d184e888b615470f9acc9edd268ac16554e42140 into e53cd11be56e2aeff89ef443ae61248fa8c4a724
+"
+post;angel-ml_angel;8f0bea1b69413911b205a615afe3dd7141894372;rachelsun <rachelsun@tencent.com>;1749126398;"fix: deepwalk example demo
+"
+post;angel-ml_angel;2b58f736a9f38f1b03fa5ab281cfde4c09ac4ea1;rachelsunrh <42671302+rachelsunrh@users.noreply.github.com>;1749175141;"Merge pull request #1300 from rachelsunrh/hotfix
+
+[#1299] Fix: deepwalk example demo"
+post;angel-ml_angel;6129aa780fea16cd2995f471d2884cff5c46d080;rachelsunrh <rachelsunrh@gmail.com>;1749202863;"fix: match partition id and number with partId in meta for hash partition
+"
+post;angel-ml_angel;2956a42e330acb0ac7c045f2e92ec6c684ecd0e0;rachelsunrh <42671302+rachelsunrh@users.noreply.github.com>;1749214010;"Merge pull request #1302 from rachelsunrh/hotfix
+
+[#1301]Fix: match partition id and number with partId in meta for hash partition"
+post;angel-ml_angel;f29e162c1815807c9fe98fdb38e908310bf08e8f;rachelsunrh <rachelsunrh@gmail.com>;1749465386;"feat: add get node psf
+"
+post;angel-ml_angel;a04e28a13d4572d228d423df1497b74613d9feb5;rachelsunrh <42671302+rachelsunrh@users.noreply.github.com>;1749465618;"Merge pull request #1304 from rachelsunrh/new-feature
+
+[#1303]Feat: add get node psf"
+post;angel-ml_angel;fcc1acc77cd4bc7e154173001e5e7133b73c4178;rachelsunrh <rachelsunrh@gmail.com>;1749465946;"Feat: add init and get psf for byte neighbors
+"
+post;angel-ml_angel;bcd262866b465ad1d02b093b68e5eb66ea9a134a;rachelsunrh <42671302+rachelsunrh@users.noreply.github.com>;1749473439;"Merge pull request #1306 from rachelsunrh/new-feature
+
+[#1305]Feat: add init and get psf for byte neighbors"
+post;angel-ml_angel;5bba803702eeb37382109476a9141af5285dc027;rachelsunrh <rachelsunrh@gmail.com>;1749520917;"Feat: add sort psf
+
+Signed-off-by: rachelsunrh <rachelsunrh@gmail.com>
+"
+post;angel-ml_angel;07a85b036269b6bdc749cb051725b2153aedf791;rachelsunrh <42671302+rachelsunrh@users.noreply.github.com>;1749521029;"Merge pull request #1308 from rachelsunrh/new-feature
+
+[#1307]Feat: add sort psf"
+pre;bmclab_bmc;6900452e0afc8440fd77dd4989bd07b6a26d3dc1;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1479413116;"Biomechanics 2016
+"
+pre;bmclab_bmc;f84dee9292d3e4e953c33534a1629bb337b1d405;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1479413329;"Biomechanics 2016
+"
+pre;bmclab_bmc;11613ced4d076eca8daf316e19669d549fb6ae53;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1479783391;"Lagrange
+"
+pre;bmclab_bmc;2ca418a440bd8883672c838fe40dcebd6696a2c7;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1479846550;"lagrange
+"
+pre;bmclab_bmc;103c4013be1447b08268b4fe0fd460b7a9e44b0c;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1479930201;"lagrange
+"
+pre;bmclab_bmc;c5f59f5d5805d07453394147486ebfd4e35671fe;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1480302938;"lagrange
+"
+pre;bmclab_bmc;8b410e7327d3e7d51e4360f94d549cdbffd3fc4f;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1480369045;"lagrange
+"
+pre;bmclab_bmc;8c35e29fa521778b3999d152c848ad7281b05ef1;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1480414048;"lagrange
+"
+pre;bmclab_bmc;4a430e06d4ae0dc8de4e2b20b1c1cce8d294e6cb;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1480458888;"lagrange
+"
+pre;bmclab_bmc;884250645693ef828471fe1d132a093dc6df7593;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1480459532;"lagrange
+"
+post;bmclab_bmc;b59b3a4f649be80c6333d889b9c0bc49447a4e8f;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1492325561;"polynomial regression
+"
+post;bmclab_bmc;d14112fab10d183db5214384e49cb86ed10fcd42;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1492326825;"polynomial regression
+"
+post;bmclab_bmc;f6f8ba1f2109a12ef81438403e2ae6abeced53c3;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1492327792;"polynomial regression
+"
+post;bmclab_bmc;326eace87b4c8e56546d6de3661fa2174d4bc110;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1492328907;"polynomial regression
+"
+post;bmclab_bmc;4337994e16a26ca79177aab43eb9f3a937b70525;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1492378341;"polynomial regression
+"
+post;bmclab_bmc;8b2fce466304c848d25f55be22c9f8848d13a47b;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1492393720;"uncertainty
+"
+post;bmclab_bmc;19865ef4c86fee4868a4fc6fc4e2e556c2e50710;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1492394255;"uncertainty
+"
+post;bmclab_bmc;291899a815b2c6137a21a8553273f2d01ef42e1b;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1496441742;"zebris
+"
+post;bmclab_bmc;e4ab572d1b64e0ec337aba3cb1e692b74561b8f8;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1497560538;"zebris
+"
+post;bmclab_bmc;e602ff168228cfb6470960dcdc050b794a6abd85;Marcos Duarte <marcos.duarte@ufabc.edu.br>;1505510307;"hatze
+"
+pre;brial_brial;d380825ac040a0a0fb2fe3780007a81d69b46765;Alexander Dreyer <adreyer@gmx.de>;1359160381;"Generate doc/python* only if necessary
+---
+ SConstruct |   14 ++++++++------
+ 1 file changed, 8 insertions(+), 6 deletions(-)
+"
+pre;brial_brial;61325af3bf39f09425e3cfd679e52c88ead2337e;Alexander Dreyer <adreyer@gmx.de>;1359334889;"Developer's version of pyroot/polybori/dynamic uses version specific settigns
+"
+pre;brial_brial;fd7e960a0577f4f59f00d5c603e8ee751bcbff40;Alexander Dreyer <adreyer@gmx.de>;1359335385;"Ensure ipbori2.x and PolyGUI2.x access the desired modules
+---
+ SConstruct |   26 +++++++++++++-------------
+ 1 file changed, 13 insertions(+), 13 deletions(-)
+"
+pre;brial_brial;e1076f413edd0311c7d7c862d1f9f693cffef167;Alexander Dreyer <adreyer@gmx.de>;1359336352;"Using DESTDIR instead of TMPINSTALLDIR
+---
+ SConstruct |    8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+"
+pre;brial_brial;3501504ac30cced640f53458329ae28e008bf70e;Alexander Dreyer <adreyer@gmx.de>;1359336557;"ensuredir should obey env
+"
+pre;brial_brial;35d603b60722267febf5ec23496ffec8cf3bb953;Alexander Dreyer <adreyer@gmx.de>;1359337449;"Don't store temp config as py module
+"
+pre;brial_brial;a8ee8e8f298ac07a63742f6e07943d9a68a277a7;Alexander Dreyer <adreyer@gmx.de>;1359368395;"Supporting subrevisions like 0.8-3.1
+"
+pre;brial_brial;60c9fe2c232297a6cf7842b34db6d031c6cf29da;Alexander Dreyer <adreyer@gmx.de>;1359368610;"Avoids possibly undefined variable key
+"
+pre;brial_brial;af049fd7c3401dce5d96e5b3279a7ac3242fc877;Alexander Dreyer <adreyer@gmx.de>;1359406932;"Added tag v0.8.3_rc2 for changeset fb3bb23e5d9d
+"
+pre;brial_brial;28d7e08bd423f49c4e9b894b725ef534e4c25a37;Alexander Dreyer <adreyer@gmx.de>;1359497245;"Added tag v0.8.3 for changeset 71fae0d4ba4b
+"
+post;brial_brial;cf1b3c7c0826f2d7434527eb0a173f2be14aecca;R. Andrew Ohana <andrew.ohana@gmail.com>;1431906605;"initial autotools based build system
+"
+post;brial_brial;10c51292f45db669b26964b35fd06096afebeedb;R. Andrew Ohana <andrew.ohana@gmail.com>;1432410470;"readd cudd makefile
+"
+post;brial_brial;162168820becfc29bf3bc2cf390fdf89fabf1bad;R. Andrew Ohana <andrew.ohana@gmail.com>;1432443049;"fixup some autotools things
+"
+post;brial_brial;9cc16f228a042dd2c68a9b503f0b51523d6634f1;R. Andrew Ohana <andrew.ohana@gmail.com>;1432445471;"add some files to the dist
+"
+post;brial_brial;9e6b89930c9e1bc783e214e88a31893ffec5d005;R. Andrew Ohana <andrew.ohana@gmail.com>;1432447110;"add some missing headers to the dist
+"
+post;brial_brial;8ec1c2c208c602c1d056139fe0f52294d53e95b6;R. Andrew Ohana <andrew.ohana@gmail.com>;1433486797;"use python3 compatible syntax
+"
+post;brial_brial;fa6b804a89a4945f1c2a25785ac9240af0196698;R. Andrew Ohana <andrew.ohana@gmail.com>;1433487762;"add some python bindings to autotools
+"
+post;brial_brial;67a1ffb6775f5d132f0b4a98136413079897562c;R. Andrew Ohana <andrew.ohana@gmail.com>;1433639533;"fix building out of source tree
+"
+post;brial_brial;c33f2a1ce0a6b21124b2d6bd7d94c034774630ee;R. Andrew Ohana <andrew.ohana@gmail.com>;1440375411;"add changelog and change package name
+"
+post;brial_brial;1922b45e11d22fd29a54899857931bbae2ee8f48;R. Andrew Ohana <andrew.ohana@gmail.com>;1440439866;"new bug fix release that fixes python import statements
+"
+pre;jasp-stats_jasp-desktop;993446cf4e242cf2163fc6e3be7fe53ebb966e9a;Jonathon Love <jon@thon.cc>;1379513507;"General Updates
+"
+pre;jasp-stats_jasp-desktop;7236f1f87a8142752826a1c8a17a3e759ca7bbf8;Ravi Selker <raafke@gmail.com>;1379600622;"Updates to the Paired Samples TTest
+"
+pre;jasp-stats_jasp-desktop;8cf95d4f9cd03629bb2d90d09c83f90ab4ae4393;Ravi Selker <raafke@gmail.com>;1379602092;"Updates to Paired Samples TTest
+"
+pre;jasp-stats_jasp-desktop;b24eecd59b72ab674aacc4ba97f36f0f1e486e36;Ravi Selker <selker.ravi@gmail.com>;1379602133;"Merge 8cf95d4f9cd03629bb2d90d09c83f90ab4ae4393 into 98eb83ef827d0d888b955a20475624c19aca16ed
+"
+pre;jasp-stats_jasp-desktop;4b5eae2a4ccfc35aa8436e3fcabf4bf139fac105;Jonathon Love <jon@thon.cc>;1379602175;"Merge pull request #4 from raviselker/master
+
+Updates to Paired Samples TTest"
+pre;jasp-stats_jasp-desktop;7201406138ccf093c0f99e44f973899e3ac59af2;Jonathon Love <jon@thon.cc>;1380121384;"General Updates
+"
+pre;jasp-stats_jasp-desktop;3bead419c51097161b4c7211a50cc263da264aac;Jonathon Love <jon@thon.cc>;1380121384;"General Updates
+"
+pre;jasp-stats_jasp-desktop;58fcf7eb5983eb2e18137a2e9b6bf5023f7969d2;neekro <smira.martin@gmail.com>;1380127329;"some fix for independent samples
+"
+pre;jasp-stats_jasp-desktop;7fd64041d7e9bc6e878c9e7ff24c583e229c3bbf;Jonathon Love <jon@thon.cc>;1381144645;"Merge in neekro's updates to the independent samples t-test
+"
+pre;jasp-stats_jasp-desktop;5ef56b13779677b67bbfb869fe8095f6a8e2f9e7;Jonathon Love <jon@thon.cc>;1381144645;"Merge in neekro's updates to the independent samples t-test
+"
+post;jasp-stats_jasp-desktop;dc3e7024fde4026b558a3fb48fd717968474983f;Jonathon Love <jon@thon.cc>;1385915166;"General Updates
+"
+post;jasp-stats_jasp-desktop;4d0ed924ed5cd405a53fe234984cec395b48af9d;Jonathon Love <jon@thon.cc>;1385915166;"General Updates
+"
+post;jasp-stats_jasp-desktop;de9f33aa47b4039605cd1787ae15d04f0ba398b8;Jonathon Love <jon@thon.cc>;1385936471;"Fix descriptives crash
+"
+post;jasp-stats_jasp-desktop;b97c0b095f759fa975484e583cb0299811246fd3;Jonathon Love <jon@thon.cc>;1385936471;"Fix descriptives crash
+"
+post;jasp-stats_jasp-desktop;ea46ff67be2f0bc18a6504c4dc0a1905ac1598b2;Ravi Selker <raafke@gmail.com>;1385991911;"include car dependency into R
+"
+post;jasp-stats_jasp-desktop;c9de873cb6f3e12fbe4b8632e944971e1a92ec69;Ravi Selker <raafke@gmail.com>;1385991957;"Remove incompatibles with Qt 5.1
+"
+post;jasp-stats_jasp-desktop;c612f6f37c05f5e81987c65275338bb8109cfe30;Jonathon Love <jon@thon.cc>;1385992971;"Merge pull request #12 from raviselker/master
+
+Some fixes"
+post;jasp-stats_jasp-desktop;81f3b5284bbd8672a336c158bf384cbf4e662953;Sacha Epskamp <sacha.epskamp@gmail.com>;1386255406;"Fixed compatibility with GCC < 4.7
+"
+post;jasp-stats_jasp-desktop;a00b2d7da09961fa9863ec3443055dba1813a69b;Jonathon Love <jon@thon.cc>;1388378079;"Updates to the Options framework
+"
+post;jasp-stats_jasp-desktop;378aa57eb722a8dacd522f121fb91cf1891019fd;Jonathon Love <jon@thon.cc>;1390572969;"General Updates
+"
+pre;juliarobotics_rigidbodydynamics.jl;21bf8bfc0d39eb06751777147b0b7e65706b654b;Robin Deits <robin.deits@gmail.com>;1684636771;"bump version to 2.5.0
+"
+pre;juliarobotics_rigidbodydynamics.jl;7702c50fedc0dd1a3b39950e397466122a78b4dc;Henrique Ferrolho <henrique.ferrolho@gmail.com>;1684878755;"stop using pyplot in favour of the default (GR) in notebook 4
+
+"
+pre;juliarobotics_rigidbodydynamics.jl;d484b0d715e1d8df6d085ff945e92809de465934;Robin Deits <robin.deits@gmail.com>;1685235126;"Merge pull request #636 from ferrolho/hf/revert-pyplot
+
+stop using pyplot in favour of the default (GR) in notebook 4"
+pre;juliarobotics_rigidbodydynamics.jl;34dbcbb96b2c837662c48b9d12e77fe32eec660d;Robin Deits <robin.deits@gmail.com>;1685320561;"fix version
+"
+pre;juliarobotics_rigidbodydynamics.jl;7cd36b92d2f77ac70454ffe278d504a05f8c0f39;Robin Deits <robin.deits@gmail.com>;1685415261;"Merge pull request #634 from JuliaRobotics/rd/update-ci
+
+Update for more recent Julia versions"
+pre;juliarobotics_rigidbodydynamics.jl;cbc711c02f67727086cf59c0f6a622546af52e42;Twan Koolen <koolen.twan@gmail.com>;1685814160;"Merge a7d356752ddf9a384c0da1aac1419db12bf6e35f into 7cd36b92d2f77ac70454ffe278d504a05f8c0f39
+"
+pre;juliarobotics_rigidbodydynamics.jl;bc6bdf3cd3448ed69c480276fd8e10f412d01d7d;Henrique Ferrolho <ferrolho@users.noreply.github.com>;1685814160;"Merge 166d3d062755d7087cc4c3d363b539dfdea6a4bf into 7cd36b92d2f77ac70454ffe278d504a05f8c0f39
+"
+pre;juliarobotics_rigidbodydynamics.jl;c8f8e3310622d7416b349f918f07cd450aafa031;Henrique Ferrolho <henrique.ferrolho@gmail.com>;1686253464;"update docs/Manifest.toml
+
+"
+pre;juliarobotics_rigidbodydynamics.jl;93806e1cc942652646f91cf94669643ae248ccde;Henrique Ferrolho <henrique.ferrolho@gmail.com>;1686257985;"add ""6. Symbolics.jl"" to excludefiles
+
+"
+pre;juliarobotics_rigidbodydynamics.jl;86dda5138d1be52b82b9ed99a1d5c2fa5b79a5b5;Henrique Ferrolho <ferrolho@users.noreply.github.com>;1686258043;"Merge 93806e1cc942652646f91cf94669643ae248ccde into 7cd36b92d2f77ac70454ffe278d504a05f8c0f39
+"
+post;juliarobotics_rigidbodydynamics.jl;b17ff748dbb2af69efc21ec08ea7c3738fdc7725;Benoît Legat <benoit.legat@gmail.com>;1730305064;"Move build script to example folder
+"
+post;juliarobotics_rigidbodydynamics.jl;fc94ab5e93279604358b642bb85b8fe40baea495;Benoît Legat <benoit.legat@gmail.com>;1730305102;"Update Manifest for Julia v1.11
+"
+post;juliarobotics_rigidbodydynamics.jl;afa56875a3ce547088f6ec76fcc78116a1a6dcf5;Benoît Legat <benoit.legat@gmail.com>;1730305338;"Merge b17ff748dbb2af69efc21ec08ea7c3738fdc7725 into 7cd36b92d2f77ac70454ffe278d504a05f8c0f39
+"
+post;juliarobotics_rigidbodydynamics.jl;c22fb8c973cf55a4f741ec04c7cb369048bc7ce4;Benoît Legat <benoit.legat@gmail.com>;1730305406;"Remove examples/Manifest.toml
+"
+post;juliarobotics_rigidbodydynamics.jl;1f66b8f0568a0dba6af5715c2763805d4b21267f;Benoît Legat <benoit.legat@gmail.com>;1730305527;"Merge c22fb8c973cf55a4f741ec04c7cb369048bc7ce4 into 7cd36b92d2f77ac70454ffe278d504a05f8c0f39
+"
+post;juliarobotics_rigidbodydynamics.jl;f233634f3a49698539066ddb51c35d6e3c48cd9d;Henrique Ferrolho <henrique.ferrolho@gmail.com>;1730832144;"Update .gitignore
+
+Source: https://github.com/github/gitignore/blob/main/Julia.gitignore
+"
+post;juliarobotics_rigidbodydynamics.jl;29152bd2fb708dd425e4bec6d02d42e34ba0a0c2;Henrique Ferrolho <henrique.ferrolho@gmail.com>;1730832499;"Update GitHub CI workflow
+"
+post;juliarobotics_rigidbodydynamics.jl;30447a87b05b857917088ee441224a64573c82af;Henrique Ferrolho <henrique.ferrolho@gmail.com>;1730832634;"Merge branch 'hf/wrenches-cache'
+"
+post;juliarobotics_rigidbodydynamics.jl;93a5eaf15a5f6714b1ec1ce621b053542dcb721d;Henrique Ferrolho <henrique.ferrolho@gmail.com>;1730832674;"Bump version to 2.5.0 and update compat
+"
+post;juliarobotics_rigidbodydynamics.jl;e3f412b5686163a72b2ee69c8e1778a1e2b02023;Henrique Ferrolho <henrique.ferrolho@gmail.com>;1730834868;"Update benchmark results
+"
+pre;mmorise_world;efcd7bb307ec6c163c836a080746fa663750dff0;GloomyGhost <gloomyghost@foxmail.com>;1634049535;"add visualstudio2022 build
+"
+pre;mmorise_world;3fa9059e58441ede5a3c36bc54b3836444259e27;GloomyGhost <gloomyghost@foxmail.com>;1634050455;"add build option WORLD_BUILD_TESTS to build test
+"
+pre;mmorise_world;b2e9007e319cb8859e5b3dd7af8d333c9b57868b;GloomyGhost <gloomyghost@foxmail.com>;1634052460;"add build option for EXAMPLES
+"
+pre;mmorise_world;e9c8819f3d96354c8cf635c4c5d3f648e963f373;YuzukiTsuru <740291272@qq.com>;1634133618;"add build option for EXAMPLES binary
+"
+pre;mmorise_world;73f2527232d00f0c17b8920434a77fb666aa1909;YuzukiTsuru <740291272@qq.com>;1634134092;"forgot the foreach
+"
+pre;mmorise_world;69b13cfc36856153a302590789a0741a9ba49100;mmorise <masanori.morise@gmail.com>;1635130317;"Merge pull request #130 from YuzukiTsuru/master
+
+Added some compilation options"
+pre;mmorise_world;146c22623adfde1d197fc1b6755de9a5e1ed33f9;Shinya Kitaoka <skitaoka@gmail.com>;1644173423;Update codec.cpp
+pre;mmorise_world;95066d4a190148a30445b809bb71898eee8e90bf;mmorise <masanori.morise@gmail.com>;1644321271;"Merge pull request #136 from skitaoka/master
+
+fix `frequency_axis` in `GetParametersForCoding()`"
+pre;mmorise_world;c859b759c108ed4c20a09d1a01f8f38becfbbabd;wtrh <99009888+wtrh@users.noreply.github.com>;1645261777;"Remove unused variable `tmp_spectrum`
+"
+pre;mmorise_world;13d96fc7da25da5fb808844d88337317e9fa0d76;mmorise <masanori.morise@gmail.com>;1645370150;"Merge pull request #137 from wtrh/master
+
+Remove unused variable `tmp_spectrum`"
+post;mmorise_world;1302a4d77e2bd7d7faa1e05aeaead8838458ba82;mmorise <masanori.morise@gmail.com>;1685954202;Update README.md
+post;mmorise_world;f8dd5fb289db6a7f7f704497752bf32b258f9151;mmorise <masanori.morise@gmail.com>;1685954232;Update README.md
+post;mmorise_world;a540c78fdc4a7c53d03b4fff18ec46484c56caca;mmorise <masanori.morise@gmail.com>;1719928261;Broken URLs regarding Harvest have been corrected.
+post;mmorise_world;1eb6602a7780f14c9a42fe9c82c444edb14157b8;mmorise <masanori.morise@gmail.com>;1726199659;The value of the safeguard is changed.
+post;mmorise_world;e29cd90abc306a26817d6c081cbad0a1779d7162;mmorise <masanori.morise@gmail.com>;1726199787;A new safeguard is added for D4C().
+post;mmorise_world;5e330acf1098f5a84232f9b272adda9fb63a2a70;sabonerune <102559104+sabonerune@users.noreply.github.com>;1729071269;"feat: randn without the global variables.
+"
+post;mmorise_world;c087e64347182275b6216505868642cef3ea3874;sabonerune <102559104+sabonerune@users.noreply.github.com>;1729159686;"fix: support `add_subdirectory`
+
+And support Cmake 3.30
+"
+post;mmorise_world;2bb515f684316b40173925a1e86eda286132744e;mmorise <masanori.morise@gmail.com>;1729562784;"Merge pull request #148 from sabonerune/fix/cmake
+
+fix: support `add_subdirectory`"
+post;mmorise_world;8d79b88b7dd92e8a132996cf74080b2d6f881b98;mmorise <masanori.morise@gmail.com>;1729696092;"Merge pull request #149 from sabonerune/feat/non-global-static-randn
+
+feat: randn without the global variables."
+post;mmorise_world;a615a20a83fa1d95b1d70b8a0f164ef7614019f6;mmorise <masanori.morise@gmail.com>;1740126595;Update README.md
+pre;samreay_chainconsumer;5606696525d91f11d8093085934fa352b98ce97c;Samuel Hinton <samuelreay@gmail.com>;1605786995;"Updating extents to include some padding. Fixing watermark issues.
+"
+pre;samreay_chainconsumer;1f8640e826f93381524c9e68ac9ae290dc9af199;travis <travis>;1605789538;"init
+"
+pre;samreay_chainconsumer;51e6b2d5cdfb04e78d33c1a5698c1f6a1445536b;Jiaming Zhang <qq1104382148@gmail.com>;1633713823;"flaky test
+"
+pre;samreay_chainconsumer;dca638c717020fb19ac7af0d664920339fb6fd14;Jiaming Zhang <qq1104382148@gmail.com>;1633714170;Delete test_summary_power.py
+pre;samreay_chainconsumer;5be1a603009cd4a4b715b717035f713eb1e5a3ff;Samuel Hinton <samuelreay@gmail.com>;1633714429;"Merge pull request #86 from Jiaming1999/flaky
+
+flaky test"
+pre;samreay_chainconsumer;d83e6ffc62571e6ecca05a2e8015d7a3e82f041d;Samuel Hinton <samuelreay@gmail.com>;1645838390;"Fixes #88
+"
+pre;samreay_chainconsumer;71f7373c3beadc1fe4e19bc851ee40a7c2bf8f08;Samuel Hinton <samuelreay@gmail.com>;1662252177;"Changing defaults
+"
+pre;samreay_chainconsumer;07d93778704d31d88b132138c3b3b31f7150c57a;Samuel Hinton <samuelreay@gmail.com>;1662259159;"Updating doc
+"
+pre;samreay_chainconsumer;a028b440bed74201d4c86f092715d4ffc6789950;Samuel Hinton <samuelreay@gmail.com>;1662259483;"Build update
+"
+pre;samreay_chainconsumer;888921942789f7c7a817c7a3cee3e7e5da3a26bf;Samuel Hinton <samuelreay@gmail.com>;1662259724;"More
+"
+post;samreay_chainconsumer;862238704ed0a6098349495d7264828ee9a0a6c5;Samuel Hinton <samuelreay@gmail.com>;1696328988;"Initial cleanup to prep for 3.10 work
+"
+post;samreay_chainconsumer;c59e4fcbb8d3050efac796597101ac70f2c160f9;Samuel Hinton <samuelreay@gmail.com>;1696420298;"Starting pydantic conversion
+"
+post;samreay_chainconsumer;9ae425aeac624f1a9b7685e824dc0de69b763142;Samuel Hinton <samuelreay@gmail.com>;1696425650;"Fixing up ruff errors
+"
+post;samreay_chainconsumer;6bb563a99890f1486fcccb0250e654f8c4535835;Samuel Hinton <samuelreay@gmail.com>;1696589624;"Oh boy what fun this is
+"
+post;samreay_chainconsumer;5319bd478d66b6287ee23a8b099b2edd143dc87a;Samuel Hinton <samuelreay@gmail.com>;1696660189;"Thats right theres more
+"
+post;samreay_chainconsumer;3589c2bcb46736c8eb9e388f37ce4ab6b6cfe70a;Samuel Hinton <samuelreay@gmail.com>;1696679140;"Starting on doco
+"
+post;samreay_chainconsumer;c6a62ef02f6da04bb388c58d9f8ad3a59db55253;Samuel Hinton <samuelreay@gmail.com>;1696685905;"Fixing more tests
+"
+post;samreay_chainconsumer;80d9659f16560f5ca09f8dd84ace7c5762780c3d;Samuel Hinton <samuelreay@gmail.com>;1696748456;"Fixing up more things
+"
+post;samreay_chainconsumer;cbb10c72a0933e61d7d6598778860ebbe496e236;Samuel Hinton <samuelreay@gmail.com>;1696759946;"Fixing tests and adding more examples
+"
+post;samreay_chainconsumer;8f90640ae369ed52c8727c67e2a419098b113279;Samuel Hinton <samuelreay@gmail.com>;1696765578;"Adding more doco
+"
+pre;systempiper_systempipeshiny;b03a413e7407a3d28ef42b2e6d7960597349c923;lz100 <lzhan140@ucr.edu>;1680735771;"fix rnaseq module always disabled
+"
+pre;systempiper_systempipeshiny;f379f61445143301e2167be91682b03a2c7207e1;lz100 <lzhan140@ucr.edu>;1680735904;"fix conflicts
+"
+pre;systempiper_systempipeshiny;812c06ddbc0bdb7a8c61f745011ce7d360976e11;Le Zhang <35240440+lz100@users.noreply.github.com>;1680735969;"Merge pull request #104 from lz100/master
+
+fix rnaseq module card on welcome page"
+pre;systempiper_systempipeshiny;fba849edac5cc67344ac8e5623be091b4a5659c3;ImgBotApp <ImgBotHelp@gmail.com>;1680751586;"[ImgBot] Optimize images
+
+*Total -- 52.92kb -> 41.08kb (22.37%)
+
+/docs/reference/Rplot001.png -- 0.99kb -> 0.72kb (27%)
+/inst/app/www/img/spr_notext.png -- 14.56kb -> 10.96kb (24.72%)
+/inst/app/www/img/rnaseq_notext.png -- 13.14kb -> 10.06kb (23.41%)
+/inst/app/www/img/visualization.png -- 18.64kb -> 14.43kb (22.61%)
+/inst/app/www/img/Untitled.svg -- 5.60kb -> 4.91kb (12.24%)
+
+Signed-off-by: ImgBotApp <ImgBotHelp@gmail.com>
+"
+pre;systempiper_systempipeshiny;261567e4b1c254b59ba3f2912653f40d31d5e6d9;J Wokaty <jwokaty@users.noreply.github.com>;1682436192;"bump x.y.z version to even y prior to creation of RELEASE_3_17 branch
+"
+pre;systempiper_systempipeshiny;256fe8a0f49004bfc367b81117ad48d26923ee24;J Wokaty <jwokaty@users.noreply.github.com>;1682436192;"bump x.y.z version to odd y following creation of RELEASE_3_17 branch
+"
+pre;systempiper_systempipeshiny;a2cada7634b6168df356273f7dc34a825c14d588;Le Zhang <35240440+lz100@users.noreply.github.com>;1683758217;"Merge pull request #106 from systemPipeR/imgbot
+
+[ImgBot] Optimize images"
+pre;systempiper_systempipeshiny;0c6dd4fbc2b11e04750b9fb08023410e5e807cc9;lz100 <lzhan140@ucr.edu>;1697477561;"bump up version
+"
+pre;systempiper_systempipeshiny;42474ac517ebb8ff84927118629a3c96b5da4ec1;J Wokaty <jennifer.wokaty@sph.cuny.edu>;1698161168;"bump x.y.z version to odd y following creation of RELEASE_3_18 branch
+"
+pre;systempiper_systempipeshiny;0d3e3e26422296e20f27d0fb1a18fbc25dbd3582;J Wokaty <jennifer.wokaty@sph.cuny.edu>;1698161168;"bump x.y.z version to even y prior to creation of RELEASE_3_18 branch
+"
+post;systempiper_systempipeshiny;147deff02a1abec510a34294ece6261df55603a6;J Wokaty <jwokaty@users.noreply.github.com>;1714490856;"bump x.y.z version to odd y following creation of RELEASE_3_19 branch
+"
+post;systempiper_systempipeshiny;890a01dd9ade78e0a338c9f615d146b7ebd9eda1;J Wokaty <jwokaty@users.noreply.github.com>;1714490856;"bump x.y.z version to even y prior to creation of RELEASE_3_19 branch
+"
+post;systempiper_systempipeshiny;204a1c6feec02c41b70f9c1c5c144bc848ae6d49;J Wokaty <jennifer.wokaty@sph.cuny.edu>;1730213464;"bump x.y.z version to odd y following creation of RELEASE_3_20 branch
+"
+post;systempiper_systempipeshiny;d1179e292970c0864001d08bb10549a33a8b8521;J Wokaty <jennifer.wokaty@sph.cuny.edu>;1730213464;"bump x.y.z version to even y prior to creation of RELEASE_3_20 branch
+"
+post;systempiper_systempipeshiny;83abcb7840a36ea286f07cb4e1540901683ea6a6;Le Zhang <35240440+lz100@users.noreply.github.com>;1744340681;"feat: bump version to 1.17.1 and update package dependencies;
+"
+post;systempiper_systempipeshiny;db03356037b60be629978d43610a9df9c401b360;Le Zhang <35240440+lz100@users.noreply.github.com>;1744340692;"fix: update return statement in checkModulePkgs_internal to use glue for missing package installation instructions
+"
+post;systempiper_systempipeshiny;103b523c1cef63e903aca033e43d369cf7b918fd;Le Zhang <35240440+lz100@users.noreply.github.com>;1744343599;"fix: wf page buttons not working due to shiny update , switch method to init input and update css
+"
+post;systempiper_systempipeshiny;6512369da537a8fa929583d016d44991e3f50877;Le Zhang <35240440+lz100@users.noreply.github.com>;1744344707;"fix: remove hover effect and transition from header logo in welcome page
+"
+post;systempiper_systempipeshiny;1a5b6d60d888c1769f11afbce9d7407392561ed8;Le Zhang <35240440+lz100@users.noreply.github.com>;1744345189;"fix: correct container function name in vs_esqUI to match esquisse package
+"
+post;systempiper_systempipeshiny;1f21850cad71cc003694f836422976aa014a599a;Le Zhang <35240440+lz100@users.noreply.github.com>;1744347021;"feat: add new workflow options for Single Cell RNAseq, BLAST, and Cheminformatics; update compatibility information
+"
