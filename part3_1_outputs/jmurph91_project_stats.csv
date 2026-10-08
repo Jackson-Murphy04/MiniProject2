@@ -2,8 +2,8 @@ project;number of commits;number of authors;max time;min time;number of stars;nu
 angel-ml_angel;3418;147;1760616761;1493817527;6800;1600;Oct 13, 2025;2024-02;2025-05;16;54;2;declining;Other:Feature development;Feature development:Bug fixes
 bmclab_bmc;2083;30;1762230919;1383617973;467;264;Sep 13, 2026;2016-12;2017-03;4;1372;4;irregular;Other:Other;Other:Other
 brial_brial;2999;34;1759360722;1141893962;24;20;Sep 1, 2026;2013-02;2015-04;27;186;14;irregular;Other:Release;Feature development:Other
-comit-network_xmr-btc-swap;4980;68;1755593438;1601272508;712;182;Jul 22, 2025;;;0;0;0;U-shaped;Other:Other;Other:Other
-easystats_insight;9905;86;1776168259;1548793879;442;47;Sep 16, 2026;;;0;0;0;steady;Other:Other;Other:Other
+comit-network_xmr-btc-swap;4980;68;1755593438;1601272508;712;182;Jul 22, 2025;;;0;0;0;U-shaped;No gap;No gap
+easystats_insight;9905;86;1776168259;1548793879;442;47;Sep 16, 2026;;;0;0;0;steady;No gap;No gap
 jasp-stats_jasp-desktop;22023;242;1777093856;1370113512;1000;231;Sep 25, 2026;2013-11;2013-11;1;21975;0;steady;Other:Bug fixes;Other:Bug fixes
 juliarobotics_rigidbodydynamics.jl;2984;23;1740965887;1460686712;310;53;Nov 7, 2024;2023-07;2024-09;15;27;4;cyclical;Other:Dependency updates;Other:Dependency updates
 mmorise_world;348;46;1740126621;1447574109;1300;264;Feb 21, 2025;2022-03;2023-05;15;11;9;declining;Feature development:Other;Dependency updates:Bug fixes
