@@ -1,0 +1,11 @@
+project;number of commits;number of authors;max time;min time;LongestGapStart;LongestGapEnd;LongestGapLength;NumCommitsAfterLastGap;NumberOfGapsInTimeline;ActivityPattern
+angel-ml_angel;3418;147;1760616761;1493817527;2024-02;2025-05;16;54;2;declining
+bmclab_bmc;2083;30;1762230919;1383617973;2016-12;2017-03;4;1372;4;declining
+brial_brial;2999;34;1759360722;1141893962;2013-02;2015-04;27;186;14;declining
+comit-network_xmr-btc-swap;4980;68;1755593438;1601272508;N/A;N/A;0;0;0;declining
+easystats_insight;9905;86;1776168259;1548793879;N/A;N/A;0;0;0;steady
+jasp-stats_jasp-desktop;22023;242;1777093856;1370113512;2013-11;2013-11;1;21975;0;rising
+juliarobotics_rigidbodydynamics.jl;2984;23;1740965887;1460686712;2023-07;2024-09;15;27;4;declining
+mmorise_world;348;46;1740126621;1447574109;2022-03;2023-05;15;11;9;declining
+samreay_chainconsumer;634;18;1775513079;1468796482;2022-10;2023-09;12;242;7;U-shaped
+systempiper_systempipeshiny;635;20;1747714763;1582064135;2023-11;2024-03;5;16;6;declining
